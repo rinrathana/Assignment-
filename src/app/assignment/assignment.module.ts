@@ -9,7 +9,7 @@ import { AssignmentComponent } from './assignment.component';
     AssignmentComponent
   ],
   imports: [
-    CommonModule
+    CommonModule,
   ],
   exports : [AssignmentComponent]
 })
